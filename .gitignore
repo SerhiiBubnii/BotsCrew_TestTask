@@ -1,1 +1,15 @@
 # Created by .ignore support plugin (hsz.mobi)
+HELP.md
+target/
+mvn/
+scripts/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+BotsCrew_TestTask.iml
